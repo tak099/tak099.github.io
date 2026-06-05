@@ -1,1 +1,3 @@
 google.com, pub-7485770813049087, DIRECT, f08c47fec0942fa0
+vungle.com, 69e257ac7dbb2c94758e460e, DIRECT, c107d686becd2d77
+bytedance.com, 8838508, DIRECT, d9d5ca48b4a5e707
